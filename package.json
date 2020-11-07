@@ -1,0 +1,20 @@
+{
+  "name": "vue-template",
+  "version": "1.0.0",
+  "description": "vue-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/last-bee/vue-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/last-bee/vue-template/issues"
+  },
+  "homepage": "https://github.com/last-bee/vue-template#readme"
+}
